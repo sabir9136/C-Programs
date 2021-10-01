@@ -1,3 +1,3 @@
 # C-Programs
-I am Collecting C Programs ( From Beginners to Advance Level). As I am a Teacher Doing this to Teach My Students Different Program and Method and Logic. 
+Doing an Experiment, Just Add Your Best C Programs and I Will Make Web App / App Containing all of the Feature
 Please Contribute Valid C Programs
